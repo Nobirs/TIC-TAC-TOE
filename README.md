@@ -8,3 +8,5 @@
 Для любых перемещений используйте "w s a d"
 
 AI пока просто рандомит свой ход
+
+![](https://github.com/Nobirs/TIC-TAC-TOE/blob/main/tic-tac-toe.gif)
